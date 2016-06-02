@@ -1,7 +1,6 @@
 ---
 layout: page
 root: ..
-title: shell
 ---
 
 [Software Carpentry Shell 
