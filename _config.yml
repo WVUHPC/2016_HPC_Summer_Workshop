@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/wvuhpc/06-13-2016-morgantown"
-workshop_site   : "https://wvuhpc.github.io/06-13-2016-morgantown"
+workshop_repo   : "https://github.com/wvuhpc/2016_HPC_Summer_Workshop"
+workshop_site   : "https://wvuhpc.github.io/2016_HPC_Summer_Workshop"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
